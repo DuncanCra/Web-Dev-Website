@@ -1,6 +1,7 @@
 # Web-Dev-Website
 Website should contain the following pages
 About page
-4 separate Projects pages
+Reversi Project page
+Haggis Areospace Project Page
 CV page
-Contact me page 
+Contact me page
